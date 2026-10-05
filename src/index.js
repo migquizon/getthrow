@@ -1,2 +1,7 @@
-import './starter';
-import './types';
+// import './intro/starter';
+// import './var-func-scope/types';
+// import './var-func-scope/variables';
+// import './var-func-scope/functions';
+// import './var-func-scope/func-as-var';
+// import './var-func-scope/func-callback-exer';
+import './var-func-scope/arrow-func';
