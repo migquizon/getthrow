@@ -4,4 +4,7 @@
 // import './var-func-scope/functions';
 // import './var-func-scope/func-as-var';
 // import './var-func-scope/func-callback-exer';
-import './var-func-scope/arrow-func';
+// import './var-func-scope/arrow-func';
+// import './var-func-scope/scope';
+// import './var-func-scope/hoisting';
+import './var-func-scope/closure';
