@@ -7,4 +7,8 @@
 // import './var-func-scope/arrow-func';
 // import './var-func-scope/scope';
 // import './var-func-scope/hoisting';
-import './var-func-scope/closure';
+// import './var-func-scope/closure';
+// import './advanced-vars/vars';
+// import './advanced-vars/type-coercion';
+// import './advanced-vars/nan';
+import './advanced-vars/equality-type-coercion';
