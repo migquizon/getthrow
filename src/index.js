@@ -11,4 +11,7 @@
 // import './advanced-vars/vars';
 // import './advanced-vars/type-coercion';
 // import './advanced-vars/nan';
-import './advanced-vars/equality-type-coercion';
+// import './advanced-vars/equality-type-coercion';
+// import './advanced-vars/arrays';
+// import './advanced-vars/objects';
+import './advanced-vars/ref-vs-val';
