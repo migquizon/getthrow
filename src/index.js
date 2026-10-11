@@ -17,4 +17,6 @@
 // import './advanced-vars/ref-vs-val';
 // import './advanced-vars/string-template-literals';
 // import './advanced-vars/this-and-classes';
-import './conditions-loops/if-statements';
+// import './conditions-loops/if-statements';
+// import './conditions-loops/ternary-operator';
+import './conditions-loops/switch-statements';
