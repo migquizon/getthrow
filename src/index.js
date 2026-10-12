@@ -19,4 +19,6 @@
 // import './advanced-vars/this-and-classes';
 // import './conditions-loops/if-statements';
 // import './conditions-loops/ternary-operator';
-import './conditions-loops/switch-statements';
+// import './conditions-loops/switch-statements';
+// import './conditions-loops/for-loops';
+import './conditions-loops/while-loops';
