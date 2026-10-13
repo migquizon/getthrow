@@ -21,4 +21,7 @@
 // import './conditions-loops/ternary-operator';
 // import './conditions-loops/switch-statements';
 // import './conditions-loops/for-loops';
-import './conditions-loops/while-loops';
+// import './conditions-loops/while-loops';
+// import './conditions-loops/recursion';
+// import './conditions-loops/short-circuit-eval';
+import './conditions-loops/array-methods';

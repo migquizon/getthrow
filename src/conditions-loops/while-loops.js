@@ -6,3 +6,7 @@ while (userInput !== "quit") {
     console.log(`You entered: ${userInput}`);
   }
 }
+
+// while loop
+// do while loop - guaranteed once or at least once
+// for when you know, while when you don't know
