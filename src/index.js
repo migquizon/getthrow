@@ -24,4 +24,7 @@
 // import './conditions-loops/while-loops';
 // import './conditions-loops/recursion';
 // import './conditions-loops/short-circuit-eval';
-import './conditions-loops/array-methods';
+// import './conditions-loops/array-methods';
+// import './the-dom/window-dom'
+// import './the-dom/selecting-el';
+import './the-dom/selecting-el-exercise';
