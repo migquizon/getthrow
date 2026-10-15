@@ -27,4 +27,6 @@
 // import './conditions-loops/array-methods';
 // import './the-dom/window-dom'
 // import './the-dom/selecting-el';
-import './the-dom/selecting-el-exercise';
+// import './the-dom/selecting-el-exercise';
+// import './the-dom/event-listeners';
+import './the-dom/event-delegation';
