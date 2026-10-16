@@ -29,4 +29,6 @@
 // import './the-dom/selecting-el';
 // import './the-dom/selecting-el-exercise';
 // import './the-dom/event-listeners';
-import './the-dom/event-delegation';
+// import './the-dom/event-delegation';
+// import './the-dom/dom-traversal';
+import './debugging/common-errors';
