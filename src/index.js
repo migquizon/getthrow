@@ -31,4 +31,5 @@
 // import './the-dom/event-listeners';
 // import './the-dom/event-delegation';
 // import './the-dom/dom-traversal';
-import './debugging/common-errors';
+// import './debugging/common-errors';
+import './debugging/debugging-with-console';
